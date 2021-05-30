@@ -1,9 +1,9 @@
-# game-dev-invaders
+# Lab: Invaders Game
 
-The companion source code for my blog series on introductory game development at https://robhimself.com, in which we go step-by-step through building an Invaders game using [Phaser](https://phaser.io/) 3.9.0.
+I setup this repository in June 2018 to help the younger members of my family get started in development with something cool: a game that can be played right in the browser. As such, this wiki documents the steps necessary to create the old [_Space Invaders_](https://en.wikipedia.org/wiki/Space_Invaders) game.
 
-- June 4th, 2018: [Part 1](https://robhimself.com/2018-06-04-let-s-make-a-game-invaders-part-1)
-- June 5th, 2018: [Part 2](https://robhimself.com/2018-06-05-let-s-make-a-game-invaders-part-2)
-- June 8th, 2018: [Part 3](https://robhimself.com/2018-06-08-let-s-make-a-game-invaders-part-3)
-- June 12th, 2018: [Part 4](https://robhimself.com/2018-06-12-let-s-make-a-game-invaders-part-4)
-- June 19th, 2018: [Part 5](https://robhimself.com/2018-06-19-let-s-make-a-game-invaders-part-5)
+- [Part 1](https://github.com/robhimslf/lab_invaders-game/wiki/Part-1)
+- [Part 2](https://github.com/robhimslf/lab_invaders-game/wiki/Part-2)
+- [Part 3](https://github.com/robhimslf/lab_invaders-game/wiki/Part-3)
+- [Part 4](https://github.com/robhimslf/lab_invaders-game/wiki/Part-4)
+- [Part 5](https://github.com/robhimslf/lab_invaders-game/wiki/Part-5)
